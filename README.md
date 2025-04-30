@@ -44,20 +44,6 @@ python run.py
 
 The application will be available at `http://localhost:5000`
 
-## API Endpoints
-
-- `GET /api/projects` - List all projects
-- `GET /api/projects/<id>` - Get specific project
-- `GET /api/stats` - Get project statistics
-- `GET /api/search?q=<query>` - Search projects
-
-## Development
-
-### Running Tests
-```bash
-pytest
-```
-
 ### Docker
 To build and run the Docker container:
 ```bash
